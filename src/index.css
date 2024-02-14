@@ -1,0 +1,22 @@
+*{
+  margin:0;
+  padding: 0;
+}
+h2 {
+	color: black;
+	font-size: 65px;
+	margin-left: 146px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+button{
+  padding: 10px;
+  background-color: indigo;
+  color: white;
+  font-size: 20px;
+  text-transform: uppercase;
+  border: none;
+  margin-left: 23px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
